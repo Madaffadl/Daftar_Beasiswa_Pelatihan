@@ -4,6 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#009688"
+    android:backgroundTint="#3F51B5"
+    android:backgroundTintMode="screen"
     tools:context=".def2app">
 
     <EditText
