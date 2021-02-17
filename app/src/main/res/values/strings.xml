@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">defapp</string>
+
+    <string-array name="Tema_Pelatihan">
+        <item>Android Developer</item>
+        <item>Network Administration</item>
+        <item>Front-End Developer</item>
+        <item>Back-End Developer</item>
+        <item>Data Analyst</item>
+        <item>Software Engginering</item>
+        <item>IT Essentials</item>
+        <item>UI/UX Design</item>
+        <item>Cyber Security</item>
+    </string-array>
+</resources>
+
+
