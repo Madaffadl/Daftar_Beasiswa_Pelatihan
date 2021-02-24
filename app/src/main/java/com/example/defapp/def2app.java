@@ -2,7 +2,9 @@ package com.example.defapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
@@ -40,5 +42,10 @@ public class def2app extends AppCompatActivity {
 
         sp.setAdapter(adapter);
 
+    }
+
+    public void page2(View view) {
+        Intent intent = new Intent(def2app.this,def3app.class);
+        startActivity(intent);
     }
 }

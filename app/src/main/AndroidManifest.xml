@@ -10,14 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Defapp">
         <activity android:name=".def3app"></activity>
-        <activity android:name=".def2app">
+        <activity android:name=".def1app">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".def1app">
+        <activity android:name=".def2app">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
