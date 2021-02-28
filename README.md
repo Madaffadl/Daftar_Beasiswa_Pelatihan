@@ -1,4 +1,4 @@
-# Daftar_Beasiswa_Pelatihan
+# UI_Register
 
 M.Daffa Fadillah
 2019302021
